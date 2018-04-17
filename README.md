@@ -18,6 +18,6 @@ First of all, you need to install all the dependencies and packages that are ess
 # Building and customizing
 To edit any front-end visuals you just need to edit the respective .css File. The css files usually have the same name as the .js File that handles most of the logic and data transfer.
 
-You can also customize the fonts of the website and make it more fancy by updating the index.css file and providing a valid google fonts link, the rest is done automatically for you. To generate a font-link use this website: https://fonts.google.com/
+You can also customize the fonts of the website and make it more fancy or personal by updating the index.css file and providing a valid google fonts link, the rest is done automatically for you. To generate a font-link use this website: https://fonts.google.com/
 
 To add even more functionalities you can look up the firebase documentation: https://firebase.google.com/docs/. I myself used many of the provided code snippets and tutorials to build and personalize this application.
