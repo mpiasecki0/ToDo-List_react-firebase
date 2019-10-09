@@ -1,8 +1,8 @@
-# ToDo-list with React & Firebase
+# Todo-List with React & Firebase
 This project is a simple todo-list made with React that provides synchronized realtime data through the Firebase-DB back-end.
 
 # Why React and Firebase?
-Firebase is a "free" cloud-based realtime database hosted by Google. It not only synchronizes the data for all of your clients but also has tools for authorization and high scalability ($$$!) as most cloud-based systems do. Since my main goal was to make a simple synchronized todo-/ shopping list, I had two options: I either code the synchronization myself with javascript which is very complicated and time-consuming ```OR``` I use a tool which does it for me. Firebase meets that criteria and is also fairly simple to use and has a great documentation (as expected from Google) with many tutorials which was also one of the main reasons why I chose it.
+Firebase is a "free" cloud-based realtime database hosted by Google. It not only synchronizes the data for all of your clients but also has tools for authorization and high scalability (as most cloud-based systems do). Since my main goal was to make a simple synchronized todo-/ shopping list, I had two options: I either code the synchronization myself with javascript which is very complicated and time-consuming ```OR``` I use a tool which does it for me. Firebase meets that criteria and is also fairly simple to use and has a great documentation (as expected from Google) with many tutorials which was also one of the main reasons why I chose it.
 
 As for React... well, I needed some sort of robust front-end technology and I wanted to try something new so I went with React. Integrating Firebase is also a child's play. You only need to import the Firebase API and use it's self explandatory commands such as bind/push/pull etc. 
 
